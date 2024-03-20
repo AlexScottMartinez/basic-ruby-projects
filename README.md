@@ -36,6 +36,11 @@ Please note the order of your keys might be different.
 - Recall how to turn strings into arrays and arrays into strings.
 ### Run code
 `ruby ./sub_strings.rb`
+### Change results
+Changing the first argument in `p substrings("Howdy partner, sit down! How's it going?", dictionary)`
+OR
+Change the variable's array input `dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]`
+
 
 ## Project: Stock Picker
 
